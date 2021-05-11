@@ -62,5 +62,5 @@
 
 ---
 [Discord]: https://discord.com/users/415443330026045440
-[Spotify]: https://open.spotify.com/user/11153360645
+[Spotify]: https://open.spotify.com/user/otko6y9fgirv1axujee6vvohw?si=qmOD0BHdQwqOjBBqZidaCg&dl_branch=1
 
