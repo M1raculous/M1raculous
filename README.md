@@ -1,4 +1,4 @@
-# Hi there, I'm M1raculous <img width="30px" src="https://media1.tenor.com/images/b440fe8b087416820258b711b91ca18a/tenor.gif?itemid=9499692" />
+# Hello there, I'm M1raculous <img width="30px" src="https://media1.tenor.com/images/b440fe8b087416820258b711b91ca18a/tenor.gif?itemid=9499692" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
