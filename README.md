@@ -15,7 +15,8 @@
 
 ### Reach Me📝
 
-[<img align="left" alt="M1raculous | Spotify" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" />][Spotify]
+[<img align="left" alt="M1raculous | Spotify" height="30px" src="https://ninalerche.dk/wp-content/uploads/2018/08/spotify-2-logo-png-transparent.png" />][Spotify]
+
 [<img align="left" alt="M1raculous | Discord" height="30px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" />][Discord]
 <br />
 
